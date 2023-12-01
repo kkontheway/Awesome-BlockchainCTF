@@ -1,6 +1,12 @@
 # CTF-Archives
 存一下我做过和准备做的题目们
+- WP代表题目有没有找到WP
+- Status代表有没有复现
 # BlockChain
-| Challenge| Solution|Status|Topic|
+| Challenge|WP|Status|KeyWords|
 |:---:|:---:|:---:|:---:|
-|Glacierctf2023|✅|✅|Blockchain Security/Wallet|
+|Glacierctf2023|✅|✅|Ethereum Security/Wallet|
+|TCP1PCTF2023|✅|❌|Ethereum|
+|[Paradigm2021](https://github.com/paradigmxyz/paradigm-ctf-2021)|✅|❌|Everything|
+|[Paradigm2022](https://github.com/paradigmxyz/paradigm-ctf-2022)|✅|❌|Everything|
+|[Paradigm2023](https://github.com/paradigmxyz/paradigm-ctf-2023)|✅|❌|Everything|
