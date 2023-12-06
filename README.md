@@ -5,9 +5,12 @@
 # BlockChain
 |                            Challenge                             |  WP   | Status |         KeyWords         |
 | :--------------------------------------------------------------: | :---: | :----: | :----------------------: |
-| [Glacierctf2023](https://github.com/LosFuzzys/GlacierCTF2023_writeups)|   ✅   |   ✅    | Ethereum Security/Wallet |
-|                           TCP1PCTF2023                           |   ✅   |   ❌    |         Ethereum         |
+| [Glacierctf2023](https://github.com/LosFuzzys/GlacierCTF2023_writeups)|   ✅   | ✅ | Ethereum Security/Wallet |
+| [TCP1PCTF2023](https://github.com/TCP1P/TCP1P-CTF-2023-Challenges)  |   ✅   |   ❌    |         Ethereum         |
 | [Paradigm2021](https://github.com/paradigmxyz/paradigm-ctf-2021) |   ✅   |   ❌    |        Everything        |
 | [Paradigm2022](https://github.com/paradigmxyz/paradigm-ctf-2022) |   ✅   |   ❌    |        Everything        |
 | [Paradigm2023](https://github.com/paradigmxyz/paradigm-ctf-2023) |   ✅   |   ❌    |        Everything        |
 | [Blazctf2023](https://github.com/fuzzland/blazctf-2023)          |   ✅   |   ✅    |        Everything        |
+| [HeroCTF](https://github.com/HeroCTF)          |   ✅   |   ❌    |        Everything        |
+| [QuillCTF](https://github.com/Quillhash/Quill-CTFs)          |   ✅   |   ❌    |        Everything        |
+| [Metatrust2023](https://github.com/MetaTrustLabs)          |   ✅   |   ❌    |        Everything        |
