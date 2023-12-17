@@ -14,3 +14,4 @@
 | [HeroCTF](https://github.com/HeroCTF)          |   ✅   |   ❌    |        Everything        |
 | [QuillCTF](https://github.com/Quillhash/Quill-CTFs)          |   ✅   |   ❌    |        Everything        |
 | [Metatrust2023](https://github.com/MetaTrustLabs)          |   ✅   |   ❌    |        Everything        |
+| [0xHackedLabCTF](https://github.com/0xHackedLabs)          |   ✅   |   ❌    |        Everything        |
