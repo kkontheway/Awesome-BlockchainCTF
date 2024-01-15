@@ -17,3 +17,5 @@
 | [0xHackedLabCTF](https://github.com/0xHackedLabs)          |   ✅   |   ❌    |        Everything        |
 | CrewCTF2023         |   ✅   |   ❌    |        Everything        |
 |[NumenCTF_2023](https://github.com/numencyber/NumenCTF_2023)| ✅   |   ❌    |        Everything        |
+|[A_MAZE_X](https://github.com/secureum/secureum-a-maze-x-challenges)|✅ |❌ | Solidity|
+|[hats-CTF](https://github.com/hats-finance/games/tree/main)|✅|❌|Defi|
